@@ -1,5 +1,5 @@
-ZFront
-======
+JFrontier
+========
 
 I'm making a game in the Frontier:Elite 2 style, using only the Java standard libraries
 
